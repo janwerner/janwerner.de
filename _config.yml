@@ -1,5 +1,5 @@
-baseurl: "/kross-jekyll-portfolio-template" # the subpath of your site, e.g. /blog
-url: "https://janwerner.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.janwerner.de" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
